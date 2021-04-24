@@ -1,0 +1,14 @@
+{
+  "name": "docker_nodejs",
+  "version": "1.0.0",
+  "description": "Testing nodejs on docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Tuan Nguyen",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
